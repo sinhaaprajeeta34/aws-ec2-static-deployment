@@ -27,7 +27,7 @@ AWS infrastructure from scratch and host a static website on an EC2 instance.
 
 ## 📘 Detailed Documentation
 Complete step-by-step deployment details are available here:
-[Deployment Guide](documents/deployment-guide.md)
+[Deployment Guide](document/deployment-guide.md)
 
 ## ✅ Final Output
 The static website is accessible using the public IP address of the EC2
