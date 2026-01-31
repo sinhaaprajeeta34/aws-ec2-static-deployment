@@ -131,13 +131,6 @@ The static website file was created in the Apache document root.
 cd /var/www/html  
 sudo nano index.html  
 
-### 📝 Website Content
-
-Welcome to My Static Website hosted on EC2  
-
-📂 **File Location:**  
-website/index.html  
-
 ---
 
 ## ✅ Validation and Testing
