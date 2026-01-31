@@ -47,7 +47,7 @@ Apache web server**.
 ## 📘 📌 MAIN DOCUMENTATION (IMPORTANT)
 👉 **All steps, commands, and explanations are written in ONE place here:**
 
-### 🔗 [Deployment Guide – Full Step-by-Step Documentation](documents/deployment-guide.md)
+### 🔗 [Deployment Guide – Full Step-by-Step Documentation](document/deployment-guide.md)
 
 This guide includes:
 - AWS Console steps (VPC, Subnets, Routes)
@@ -63,12 +63,6 @@ This guide includes:
 ## 💻 Server Commands Reference
 All EC2 terminal commands executed on the server:
 👉 [Apache Setup Commands](commands/setup-commands.md)
-
----
-
-## 🌐 Website Content
-Static website deployed on EC2:
-👉 [index.html](website/index.html)
 
 ---
 
@@ -113,7 +107,7 @@ properly designed infrastructure components.
 ---
 
 ### 📌 Final Note
-📄 **Full documentation:** `documents/deployment-guide.md`  
+📄 **Full documentation:** `document/deployment-guide.md`  
 🖥️ **Server work:** Performed on EC2 (not local machine)  
 📦 **Version control:** Managed using Git & GitHub
 
